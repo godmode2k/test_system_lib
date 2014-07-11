@@ -1,7 +1,7 @@
 test_system_lib
 ===============
 
-Test System Lib (Test only)
+Test System Lib (Test only: tested on GNU/Linux)
 
  - Permission
  - File/Directory operation
